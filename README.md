@@ -1,2 +1,3 @@
 # Neural-Networks
-A collection of various Neural Network, deep learning architectures, models in Python.
+
+**Project 1 :** Build a model to accurately assign each item into ten categories of clothing and accessories using fashion MNIST dataset.
