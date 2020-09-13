@@ -1,7 +1,5 @@
 ## DATASET
 This Dataset contains 10000 data points with 14 features.<br/>
-Link : https://www.kaggle.com/aakash50897/churn-modellingcsv
-
 
 The column are about it's estimated salary, age, sex, etc. Aiming to provide all details about an employee.
 ![Table](https://miro.medium.com/max/700/1*rFP981UVBTKNlx3VQAnLMQ.png)
